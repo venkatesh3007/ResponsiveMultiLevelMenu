@@ -1,0 +1,20 @@
+{
+  "name": "ResponsiveMultiLevelMenu",
+  "version": "0.0.1",
+  "homepage": "https://github.com/venkatesh3007/ResponsiveMultiLevelMenu",
+  "authors": [
+    "venkatesh"
+  ],
+  "main": "jquery.dlmenu.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
